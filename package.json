@@ -10,13 +10,8 @@
     "Arnold Daniels <arnold@jasny.net>"
   ],
   "dependencies": {
-    "angular": "^1.5.8",
-    "pdf.js-viewer": "~1.6.211"
+    "pdf.js-viewer": "github:julamb/pdf.js-viewer"
   },
-  "license": "MIT",
   "main": "dist/angular-pdfjs-viewer.js",
-  "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-replace": "^0.10.2"
-  }
+  "devDependencies": {}
 }
